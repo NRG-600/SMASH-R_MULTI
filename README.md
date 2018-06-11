@@ -1,4 +1,4 @@
-# SMASH-R_MULTI
+# SMASH-R
 SMASH-R is a multi file hashing tool for hashing multiple files built with Python 3 and GUI Written in Tkinter.
 
 You will need to fulfil thease depedencys in order to run SMASH-R
